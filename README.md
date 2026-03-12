@@ -4,10 +4,10 @@
 
 ## Passionate Developer & Tech Enthusiast
 
-Building amazing things with code • Always learning • Open to collaborations
+Building innovative solutions with code • Continuous learner • Open to collaborations
 
 [![GitHub](https://img.shields.io/badge/GitHub-StevenVianto-black?logo=github)](https://github.com/StevenVianto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-StevenVianto-blue?logo=linkedin)](https://www.linkedin.com/in/steven-valiant-vianto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-StevenVianto-blue?logo=linkedin)](https://www.linkedin.com/in/steven-vianto/)
 
 </div>
 
@@ -15,26 +15,26 @@ Building amazing things with code • Always learning • Open to collaborations
 
 ## 🚀 About Me
 
-Hi! I'm Steven, a developer passionate about creating elegant solutions to complex problems. I love building projects that make a difference and continuously exploring new technologies to expand my skill set.
+Hello! I'm Steven, a dedicated developer focused on creating efficient and scalable solutions to complex challenges. I thrive on exploring emerging technologies and applying best practices to deliver high-quality software.
 
 ---
 
-## 💼 What I'm Doing Now
+## 💼 Current Focus
 
-- 🔭 Working on exciting projects that challenge my creativity
-- 🌱 Constantly learning new technologies and best practices
-- 👯 Open to collaborating on innovative ideas
-- 💡 Interested in: Web Development, Software Architecture, and Clean Code
+- 🔭 Developing innovative projects that push technical boundaries
+- 🌱 Expanding expertise in modern development frameworks and methodologies
+- 👯 Seeking collaborative opportunities on impactful initiatives
+- 💡 Areas of Interest: Full-Stack Development, System Architecture, and Code Optimization
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages:** JavaScript, TypeScript, Python, SQL
+**Programming Languages:** JavaScript, TypeScript, Python, SQL
 
-**Frontend:** React, Vue.js, HTML5, CSS3, Tailwind CSS
+**Frontend Technologies:** React, Vue.js, HTML5, CSS3, Tailwind CSS
 
-**Backend:** Node.js, Express, Django, REST APIs
+**Backend Technologies:** Node.js, Express.js, Django, RESTful APIs
 
 **Tools & Platforms:** Git, Docker, VS Code, GitHub, Linux
 
@@ -42,7 +42,7 @@ Hi! I'm Steven, a developer passionate about creating elegant solutions to compl
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -54,26 +54,26 @@ Hi! I'm Steven, a developer passionate about creating elegant solutions to compl
 
 ---
 
-## 📫 Let's Connect
+## 📫 Get In Touch
 
-- 💬 **Ask me about:** Web development, coding best practices, tech trends
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **Portfolio:** [Your Portfolio](https://yourportfolio.com)
-- 💼 **LinkedIn:** [Steven Vianto](https://linkedin.com)
+- 💬 **Open to discuss:** Web development, software engineering, technology trends
+- 📧 **Email:** steven.vianto@example.com
+- 🌐 **Portfolio:** [Coming Soon](https://stevenvianto.dev)
+- 💼 **LinkedIn:** [Steven Vianto](https://www.linkedin.com/in/steven-vianto/)
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Professional Highlights
 
-- 🎯 I love solving puzzles and tackling complex problems
-- 🌍 Interested in learning about different cultures and technologies
-- ☕ Fueled by coffee and curiosity
-- 🎮 Gamer at heart with a passion for game development
+- 🎯 Problem-solver with a focus on elegant, maintainable code
+- 🌍 Enthusiastic about global tech communities and cross-cultural collaboration
+- ☕ Driven by innovation and continuous improvement
+- 🎮 Background in game development and interactive experiences
 
 ---
 
 <div align="center">
 
-**Thanks for visiting my profile! Feel free to check out my projects and don't hesitate to reach out!** 🙌
+**Thank you for visiting my profile! Explore my repositories and feel free to connect.** 🙌
 
 </div>
