@@ -7,7 +7,7 @@
 Building amazing things with code • Always learning • Open to collaborations
 
 [![GitHub](https://img.shields.io/badge/GitHub-StevenVianto-black?logo=github)](https://github.com/StevenVianto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-StevenVianto-blue?logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-StevenVianto-blue?logo=linkedin)](https://www.linkedin.com/in/steven-valiant-vianto/)
 
 </div>
 
